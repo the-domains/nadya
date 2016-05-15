@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nadya]]></title>
         <description><![CDATA[Nadya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nadya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 18:05:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 18:30:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nadya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Recommendations]]></title>
-            <description><![CDATA[<h1>Recommendations</h1>]]></description>
-            <link>undefinedrecommendations/index.html</link>
+            <description><![CDATA[<article><h1>Recommendations</h1><h2>Anime</h2><p>Warning. I have shit taste in Chinese cartoons. I blame my lack of taste.</p></article>]]></description>
+            <link>https://thegrid.ai/nadya/recommendations/index.html</link>
             <guid isPermaLink="false">07c792e5-b551-4d0c-8805-7d312cc205c8</guid>
-            <pubDate>Sun, 15 May 2016 18:05:36 GMT</pubDate>
+            <pubDate>Sun, 15 May 2016 18:30:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
