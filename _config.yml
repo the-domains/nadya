@@ -1,0 +1,28 @@
+name: Nadya
+favicon: null
+layout_spectrum: 0.33553671231493354
+typography_spectrum: 0.6345168673433363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.23955181799829006
+  lightness: 0.22012371174059808
+  saturation: 0.8888471035752445
+  rhythmicContrast: 0.8407421102747321
+purpose: []
