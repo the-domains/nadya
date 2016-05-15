@@ -4,23 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-15T18:05:36.743Z'
-dateModified: '2016-05-15T18:05:36.414Z'
+description: Warning. I have shit taste in Chinese cartoons. I blame my lack of taste.
+datePublished: '2016-05-15T18:30:04.399Z'
+dateModified: '2016-05-15T18:29:46.590Z'
+title: Recommendations
+author: []
+sourcePath: _posts/2016-05-15-recommendations.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Recommendations
-author: []
-starred: false
-sourcePath: _posts/2016-05-15-recommendations.md
+starred: true
 url: recommendations/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aafb7a8a-4d35-4fa1-96a9-c3a028b340ff.png)
+
 # Recommendations
 
 **Warning**. I have shit taste in Chinese cartoons. I blame my lack of taste.
@@ -52,9 +54,7 @@ Top 5 Series
 
 ## Predicted Questions
 
-**Q: "But I thought Yuno was your waifu? Why aren't you recommendating Mirai Nikki?"**
-  
-Mirai Nikki is a shit series with a mediocre manga.
-
+**Q: "But I thought Yuno was your waifu? Why aren't you recommendating Mirai Nikki?"**  
+Mirai Nikki is a shit series with a mediocre manga. 
 
 [0]: https://vgy.me/R098iE.png
